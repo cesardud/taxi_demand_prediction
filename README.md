@@ -44,16 +44,19 @@ Modelo Random Forest Regressor logró el mejor desempeño:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/cesardud/gold-recovery.git
+   git clone https://github.com/cesardud/taxi_demand_prediction.git
 
 2. Navega al proyecto:
    ```bash
-   cd gold-recovery
+   cd taxi_demand_prediction
+   
 3. Instala las librerías requeridas:
    ```bash
    pip install -r requirements.txt
+
 4. Abre Notebook:
    ```bash
-   jupyter notebook gold_recovery.ipynb
+   jupyter notebook notebook.ipynb
+
 
 
