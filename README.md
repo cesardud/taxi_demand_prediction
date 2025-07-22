@@ -46,8 +46,14 @@ Modelo Random Forest Regressor logró el mejor desempeño:
    ```bash
    git clone https://github.com/cesardud/gold-recovery.git
 
-2. Navega al proyecto: cd gold-recovery
-3. Instala las librerías requeridas: pip install -r requirements.txt
-4. Abre Notebook: jupyter notebook gold_recovery.ipynb
+2. Navega al proyecto:
+   ```bash
+   cd gold-recovery
+3. Instala las librerías requeridas:
+   ```bash
+   pip install -r requirements.txt
+4. Abre Notebook:
+   ```bash
+   jupyter notebook gold_recovery.ipynb
 
 
